@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <example_table>
+    <row><id>2</id><login>boris</login><email>sa@sa</email><username>borya</username><password>ec65e8fd5f77ecb3ef898be02aec217b</password><salt>5df016430f989</salt></row>
+    <row><id>3</id><login>borisss</login><email>sa@sas</email><username>bor</username><password>7b1fdce064c51822e80d65fe947d156f</password><salt>5df0166041b33</salt></row>
+    </example_table>
+</database>
